@@ -44,4 +44,5 @@
 **6) Create from SquashFS file**
 
 ## Current Alpha Builds
-##  [Arch C++ Script](https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable)
+##  [Arch C++ Script](https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2004-04-2025)
+##  [Universal Python Script](https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2004-04-2025)
