@@ -4,47 +4,47 @@
 <div align="center">
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; justify-items: center; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; text-align: center; font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
   <!-- Row 1 -->
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Ubuntu</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Ubuntu</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Debian</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Debian</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" alt="Arch Linux" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Arch Linux</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" alt="Arch" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Arch Linux</p>
   </div>
 
   <!-- Row 2 -->
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" alt="Fedora" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Fedora</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" alt="Fedora" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Fedora</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" alt="Linux Mint" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Linux Mint</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" alt="Mint" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Linux Mint</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" alt="openSUSE" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">openSUSE</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" alt="openSUSE" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">openSUSE</p>
   </div>
 
   <!-- Row 3 -->
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" alt="CentOS" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">CentOS</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" alt="CentOS" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">CentOS</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" alt="Rocky Linux" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Rocky Linux</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" alt="Rocky" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Rocky Linux</p>
   </div>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alpine_Linux_logo.svg/120px-Alpine_Linux_logo.svg.png" alt="Alpine Linux" style="width: 80px; height: auto; display: block; margin: 0 auto;">
-    <p style="text-align: center; margin-top: 8px;">Alpine Linux</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alpine_Linux_logo.svg/120px-Alpine_Linux_logo.svg.png" alt="Alpine" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Alpine Linux</p>
   </div>
 </div>
   
