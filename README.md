@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Apex Container Creator Utility! (accu)</h1>
-<h3 align="center">Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</h3>
+**Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊**
 
 
 <h1 align="center">Supported Distros</h1>
@@ -22,11 +22,8 @@
   <a href="https://www.deepseek.com/" target="_blank">
     <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
   </a>
-</div>
 
-<p align="center">
-  [![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
-</p>
+![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
 
 
 <h2 align="center">All Applications Alpha! ⚠️🏗️</h2>
