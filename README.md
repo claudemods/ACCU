@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Apex Container Creator Utility! (accu)</h1>
-**Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊**
+ <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
 
 
 <h1 align="center">Supported Distros</h1>
