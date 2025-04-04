@@ -28,7 +28,7 @@
 </div>
 
 
-<h2 align="center"> All Provided Binaries Are Currently Alpha Releases! Test With Caution ⚠️🏗️</h2>
+<h2 align="center"> All Provided Binaries Are Currently Alpha Releases Test With Caution! ⚠️🏗️</h2>
 
   <strong>Known issues 04-04-2025</strong><br>
 
