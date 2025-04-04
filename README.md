@@ -7,6 +7,14 @@
 <div align="center">
  <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
 
+ 
+<div align="center">
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
+  </a>
+
+[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
+
 
 <h1 align="center">Supported Distros</h1>
 
@@ -19,13 +27,6 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" width="60"><br>Mint | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" width="60"><br>openSUSE | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" width="60"><br>Rocky | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu | |
 
 </div>
-
-<div align="center">
-  <a href="https://www.deepseek.com/" target="_blank">
-    <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
-  </a>
-
-[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
 
 
 <h2 align="center">All Applications Alpha! ⚠️🏗️</h2>
