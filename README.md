@@ -8,9 +8,7 @@
   <!-- Row 1 -->
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" style="width: 80px; height: auto;">
-    <p style="margin-top: 8px; font-weight: bold;">Ubuntu</p>
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto;">
+    <p style="margin-top: 8px; font-weight: bold;">Ubuntu</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Debian</p>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" alt="Arch" style="width: 80px; height: auto;">
