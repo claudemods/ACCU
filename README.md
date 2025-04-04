@@ -39,5 +39,5 @@
 
 **6) Create from SquashFS file**
 
-## Current Built Alpha Applications
+## Current Alpha Builds
 ##  [Arch C++ Script](https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable)
