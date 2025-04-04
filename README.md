@@ -9,13 +9,11 @@
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Ubuntu</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto;">
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" alt="Debian" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Debian</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" alt="Arch" style="width: 80px; height: auto;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" alt="Arch" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Arch Linux</p>
   </div>
 
@@ -23,13 +21,10 @@
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" alt="Fedora" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Fedora</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" alt="Mint" style="width: 80px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" alt="Mint" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Linux Mint</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" alt="openSUSE" style="width: 80px; height: auto;">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" alt="openSUSE" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">openSUSE</p>
   </div>
 
@@ -37,16 +32,13 @@
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" alt="CentOS" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">CentOS</p>
-  </div>
-  <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" alt="Rocky" style="width: 80px; height: auto;">
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" alt="Rocky" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Rocky Linux</p>
   </div>
   <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alpine_Linux_logo.svg/120px-Alpine_Linux_logo.svg.png" alt="Alpine" style="width: 80px; height: auto;">
     <p style="margin-top: 8px; font-weight: bold;">Alpine Linux</p>
-  </div>
-</div>
   
 <div align="center" style="line-height: 3;">
   <a href="https://www.deepseek.com/" target="_blank">
