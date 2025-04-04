@@ -39,7 +39,7 @@
 cloning into .tar hasnt been tested
 
 <div align="center">
-no other none issues
+no other known issues
 
 
 <h2 align="center">Prerequisites! ⚠️</h2>
