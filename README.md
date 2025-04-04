@@ -30,7 +30,7 @@
 
 ## All Applications Alpha! ⚠️🏗️
 
-## Prerequisites! ⚠️🏗️
+## Prerequisites! ⚠️
 **Docker Installed And Setup**
 
 **Python If You Choose The Python Script**
