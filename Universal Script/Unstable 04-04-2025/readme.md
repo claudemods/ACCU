@@ -1,12 +1,11 @@
 ## Accu Script Photos
-![Alpha Menu](https://github.com/user-attachments/assets/b022f38d-f540-46f1-9cfe-86c03924429e)
- 
 
-![Alpha](https://github.com/user-attachments/assets/ebee7088-c4d0-4bba-9eaf-2cbe2a007019)
- 
+
 
 ![Alpha Menu](https://github.com/user-attachments/assets/6e8d61dd-c226-4f30-b956-ef7593e959b5)
- 
+
+ ![Options](https://github.com/user-attachments/assets/b499605c-9e48-43fc-af7d-765e9dc08e59)
+
 
 ![Alpha](https://github.com/user-attachments/assets/97ff80ec-37f8-41e8-bb49-854024410d3f)
  
