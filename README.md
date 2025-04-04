@@ -50,7 +50,7 @@
 **tar For .tar files**
 
 ## Key Features! 🛡️📦 
-**1) Launch Existing Containers As Wayland**
+**1) Launch Existing Containers With Wayland**
 
 **2) Clone Current System Into .tar**
 
