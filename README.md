@@ -19,7 +19,9 @@
 </div>
 
 <p align="center">
+  
   [![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
+  
 </p>
 
 <h1 align="center">Apex Container Creator Utility! (accu)</h1>
