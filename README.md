@@ -28,7 +28,19 @@
 </div>
 
 
-<h2 align="center">Project Alpha! Test With Caution ⚠️🏗️</h2>
+<h2 align="center"> All Files Provided Are Alpha Releases! Test With Caution ⚠️🏗️</h2>
+
+  <strong>Known issues 04-04-2025</strong><br>
+
+<div align="center">
+im sure .img.xz hasnt been tested
+
+<div align="center">
+cloning into .tar hasnt been tested
+
+<div align="center">
+no other none issues
+
 
 <h2 align="center">Prerequisites! ⚠️</h2>
 <p align="center">
