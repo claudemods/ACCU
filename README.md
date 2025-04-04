@@ -1,3 +1,5 @@
+<p align="center">
+<img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">	
 
 <div align="center">
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
@@ -37,5 +39,5 @@
 
 **6) Create from SquashFS file**
 
-## Current Built Applications!
-**1) Arch C++ Script**
+## Current Built Alpha Applications
+##  [Arch C++ Script](https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable)
