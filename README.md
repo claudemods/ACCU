@@ -30,6 +30,25 @@
 
 ## All Applications Alpha! ⚠️🏗️
 
+## Prerequisites! ⚠️🏗️
+**Docker Installed And Setup**
+
+**Python If You Choose The Python Script**
+
+**C++ If You Choose The C++ Arch Script**
+
+**Python-pyqt6 If You Choose The Python Qt6 App**
+
+**C++ Qt6 If You Choose The C++ Qt6 Arch App**
+
+**Squashfs-tools For Squashfs Files**
+
+**Rsync To Copy**
+
+**XZ For .img.xz Files**
+
+**Tar For .tar files**
+
 ## Key Features! 🛡️📦 
 **1) Launch Existing Containers**
 
