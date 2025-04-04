@@ -21,10 +21,9 @@
 <div align="center">
 
 <!-- Alphabetical Logo Grid with Arch First -->
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" width="60"><br>Arch | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" width="60"><br>CentOS | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" width="60"><br>Debian | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" width="60"><br>Fedora | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" width="60"><br>Mint |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" width="60"><br>openSUSE | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" width="60"><br>Rocky | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu | | |
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" width="60"><br>Arch | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" width="60"><br>Debian | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" width="60"><br>Fedora | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu |
 
 </div>
 
