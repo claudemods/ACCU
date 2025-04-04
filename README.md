@@ -28,7 +28,7 @@
 </div>
 
 
-<strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️</strong><br>
+<strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
   <strong>Known issues 04-04-2025</strong><br>
 
