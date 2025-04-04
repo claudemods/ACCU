@@ -4,23 +4,23 @@
 
 <div align="center">
 
-<!-- Logo Grid -->
+<!-- Alphabetical Logo Grid with Arch First -->
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" width="60"><br>Debian | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" width="60"><br>Arch | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" width="60"><br>Fedora | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" width="60"><br>Mint |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" width="60"><br>openSUSE | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" width="60"><br>CentOS | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" width="60"><br>Rocky | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alpine_Linux_logo.svg/120px-Alpine_Linux_logo.svg.png" width="60"><br>Alpine | |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png" width="60"><br>Arch | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Alpine_Linux_logo.svg/120px-Alpine_Linux_logo.svg.png" width="60"><br>Alpine | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/120px-CentOS_Graphical_Symbol.svg.png" width="60"><br>CentOS | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" width="60"><br>Debian | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" width="60"><br>Fedora |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linux_Mint_logo_without_wordmark.svg/120px-Linux_Mint_logo_without_wordmark.svg.png" width="60"><br>Mint | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/OpenSUSE_Logo.svg/120px-OpenSUSE_Logo.svg.png" width="60"><br>openSUSE | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Rocky_Linux_logo.svg/120px-Rocky_Linux_logo.svg.png" width="60"><br>Rocky | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu | |
 
 </div>
 
+<div align="center">
   <a href="https://www.deepseek.com/" target="_blank">
     <img alt="Homepage" src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png" style="height: 30px; width: auto;">
   </a>
 </div>
 
-
-<div align="center">
-![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
-  
+<p align="center">
+  [![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
+</p>
 
 <h1 align="center">Apex Container Creator Utility! (accu)</h1>
 <h3 align="center">Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</h3>
