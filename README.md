@@ -33,7 +33,7 @@
   <strong>Known issues 04-04-2025</strong><br>
 
 <div align="center">
-im sure .img.xz hasnt been tested
+sure .img.xz hasnt been tested
 
 <div align="center">
 cloning into .tar hasnt been tested
