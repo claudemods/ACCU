@@ -27,7 +27,7 @@
 **Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊**
 
 ## Key Features! 🛡️📦 
-**1) Launch existing container**
+**1) Launch Existing Containers**
 
 **2) Clone Current System Into .tar**
 
