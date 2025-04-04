@@ -30,7 +30,7 @@
 
 <strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
-  <strong>Known issues 04-04-2025</strong><br>
+  <strong>Known issues 04-04-2025 10:38</strong><br>
 
 <div align="center">
 .img.xz hasnt been tested
