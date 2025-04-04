@@ -2,6 +2,12 @@
   <img src="https://i.postimg.cc/JhMRf2RZ/claudemods-03-17-2025.gif">
 </p>
 
+<h1 align="center">Apex Container Creator Utility! (accu)</h1>
+<h3 align="center">Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</h3>
+
+
+<h1 align="center">Supported Distros</h1>
+
 <div align="center">
 
 <!-- Alphabetical Logo Grid with Arch First -->
@@ -22,8 +28,6 @@
   [![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-04%2F04%2F2025)
 </p>
 
-<h1 align="center">Apex Container Creator Utility! (accu)</h1>
-<h3 align="center">Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</h3>
 
 <h2 align="center">All Applications Alpha! ⚠️🏗️</h2>
 
