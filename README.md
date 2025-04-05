@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://www.docker.com/" target="_blank">
-    <img alt="Homepage" src="  https://i.postimg.cc/K887TD02/5429470.png" style="height: 30px; width: auto;">
+    <img alt="Homepage" src="https://i.postimg.cc/K887TD02/5429470.png" style="height: 30px; width: auto;">
   </a>
 
   
