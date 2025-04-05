@@ -92,3 +92,9 @@ no other known issues more fixes coming soon
   <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2005-04-2025/">Arch C++ Script</a><br>
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2005-04-2025">Python Script</a>
 </p>
+
+
+<div align="center">
+current testing
+![incus](https://github.com/user-attachments/assets/8a8f5af2-4157-4931-a2b1-8047afe3164e)
+
