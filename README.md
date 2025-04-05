@@ -38,7 +38,7 @@
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
 | **Arch Linux**     | **Debian**     | **AlmaLinux**  | **Gentoo**        |
-| **CachyOS**    | **Devuan** | **CentOS Stream** | **NixOS**      |
+| **CachyOS**    | **Devuan** | **CentOS** | **NixOS**      |
 | **Kde Linux**       | **Linux Mint** | **Fedora**     | **openSUSE**      |
 | **EndeavourOS**   | **MX Linux**   | **RHEL**       | **Slackware**     |
 | **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux** | **Void Linux**    |
