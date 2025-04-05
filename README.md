@@ -51,13 +51,13 @@
  **Rocky Linux**  
 
 ### Arch-Based  
- **Arch Linux**  
+ **Arch Linux** 
  **CachyOS**
  **kdeLinux**
  **Garuda**
  **ArcoLinux**
  **Manjaro**  
-  **EndeavourOS**  
+**EndeavourOS**  
 
 ### Independent/Other  
 **openSUSE**  
