@@ -33,7 +33,7 @@
 
 <div align="center">
   
-### Supported Linux Distributions
+### Supported Systems
 
 ### Debian Based
 **Debian**  
