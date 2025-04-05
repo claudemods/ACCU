@@ -33,17 +33,18 @@
 
 <div align="center">
   
-### Supported Systems 
+### Supported Linux Distributions
 
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
-| **Arch Linux**     | **Debian**     | **Fedora**  | **Gentoo**        |
-| **CachyOS**    | **Devuan** | **CentOS** | **NixOS**      |
-| **Kde Linux**       | **Linux Mint** | **Alma Linux**     | **openSUSE**      |
-| **EndeavourOS**   | **MX Linux**   | **RHEL**       | **Slackware**     |
-| **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux** | **Void Linux**    |
-| **Arco Linux**      | **Kde Neon**     |                |                   |
-| **Manjaro**       | **Ubuntu**         |                |                   |
+| **Arch Linux**    | **Debian**     | **Fedora**     | **Gentoo**        |
+| **CachyOS**      | **Devuan**     | **CentOS**     | **NixOS**         |
+| **Kde Linux**    | **Linux Mint** | **Alma Linux** | **openSUSE**      |
+| **EndeavourOS**   | **MX Linux**   | **RHEL**      | **Slackware**     |
+| **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux**| **Void Linux**    |
+| **Arco Linux**    | **Kde Neon**   | **Nobara**    |                   |
+| **Manjaro**       | **Ubuntu**     |               |                   |
+| **Artix**         | **Kubuntu**    |               |                   |
 
 <h2 align="center">Prerequisites! ⚠️</h2>
 <p align="center">
