@@ -71,7 +71,7 @@
 
 
 
-  <strong>Known issues And Info 05-04-2025 22:44 Pm Uk Time</strong><br>
+  <strong>Known issues And Info 05-04-2025 22:44 PM Uk Time</strong><br>
 <div align="center">
 new fixes to cloning mechanism you can now clone a installed system
 <div align="center">
