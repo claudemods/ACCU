@@ -71,15 +71,15 @@
 
 
 
-  <strong>Known issues And Info 05-04-2025 05:44 Am Uk Time</strong><br>
-
+  <strong>Known issues And Info 05-04-2025 22:44 Pm Uk Time</strong><br>
+<div align="center">
+new fixes to cloning mechanism you can now clone a installed system
 <div align="center">
 squashfs function was recently fixed in C++ and Python Script so it works
   <div align="center">
-.img.xz hasnt been tested
+.img.xz and cloning to drive hasnt been tested
 
 <div align="center">
-cloning into .tar hasnt been tested
 
 <div align="center">
 no other known issues more fixes coming soon 
@@ -89,6 +89,6 @@ no other known issues more fixes coming soon
 
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
-  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2005-04-2025">Arch C++ Script</a><br>
+  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2005-04-2025/">Arch C++ Script</a><br>
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2005-04-2025">Python Script</a>
 </p>
