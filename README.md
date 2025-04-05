@@ -32,7 +32,8 @@
 
 
 <div align="center">
-## Supported Linux Distributions
+  
+### Supported Linux Distributions
 
 ### Debian Based
 **Debian**  
