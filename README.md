@@ -42,8 +42,8 @@
 | **Kde Linux**       | **Linux Mint** | **Alma Linux**     | **openSUSE**      |
 | **EndeavourOS**   | **MX Linux**   | **RHEL**       | **Slackware**     |
 | **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux** | **Void Linux**    |
-| **Arco Linux**      | **Ubuntu**     |                |                   |
-| **Manjaro**       | **Kde Neon**         |                |                   |
+| **Arco Linux**      | **Kde Neon**     |                |                   |
+| **Manjaro**       | **Ubuntu**         |                |                   |
 
 <h2 align="center">Prerequisites! ⚠️</h2>
 <p align="center">
