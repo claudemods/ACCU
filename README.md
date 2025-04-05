@@ -52,6 +52,10 @@
 
 ### Arch-Based  
  **Arch Linux**  
+ **CachyOS**
+ **kdeLinux**
+ **Garuda**
+ **ArcoLinux**
  **Manjaro**  
   **EndeavourOS**  
 
