@@ -31,16 +31,18 @@
 
 <strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
-  <strong>Known issues 04-04-2025 9:44 Am Uk Time</strong><br>
+  <strong>Known issues 05-04-2025 05:44 Am Uk Time</strong><br>
 
 <div align="center">
+squashfs function was recently fixed in C++ and Python Script so it works
+  <div align="center">
 .img.xz hasnt been tested
 
 <div align="center">
 cloning into .tar hasnt been tested
 
 <div align="center">
-no other known issues
+no other known issues more being fixes coming soon 
 
 
 <h2 align="center">Prerequisites! ⚠️</h2>
