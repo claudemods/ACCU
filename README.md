@@ -22,7 +22,7 @@
 
 
   
-[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-05%2F04%2F2025)
+[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alphas-22-03PM)
 
 
 <div align="center">
