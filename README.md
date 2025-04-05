@@ -70,6 +70,6 @@ no other known issues more fixes coming soon
 
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
-  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2004-04-2025">Arch C++ Script</a><br>
-  <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2004-04-2025">Python Script</a>
+  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2005-04-2025">Arch C++ Script</a><br>
+  <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2005-04-2025">Python Script</a>
 </p>
