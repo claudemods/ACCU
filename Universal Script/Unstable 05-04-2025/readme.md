@@ -2,11 +2,10 @@
 
 
 
-![Alpha Menu](https://github.com/user-attachments/assets/6e8d61dd-c226-4f30-b956-ef7593e959b5)
+![mainmenu](https://github.com/user-attachments/assets/b085c8db-e870-4142-8803-73e737f0b40a)
+![options](https://github.com/user-attachments/assets/dc8f98eb-4c18-4143-90bf-f3d2ea3a89c3)
+![cloning](https://github.com/user-attachments/assets/64e449b0-310d-4634-a59b-e687b97ed011)
 
- ![Options](https://github.com/user-attachments/assets/b499605c-9e48-43fc-af7d-765e9dc08e59)
 
-
-![Alpha](https://github.com/user-attachments/assets/97ff80ec-37f8-41e8-bb49-854024410d3f)
  
 ![Alpha](https://github.com/user-attachments/assets/cce8af89-d317-4f8d-8c2f-16bb901a85bd)
