@@ -42,7 +42,7 @@ squashfs function was recently fixed in C++ and Python Script so it works
 cloning into .tar hasnt been tested
 
 <div align="center">
-no other known issues more being fixes coming soon 
+no other known issues more fixes coming soon 
 
 
 <h2 align="center">Prerequisites! ⚠️</h2>
