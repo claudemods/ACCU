@@ -39,7 +39,7 @@
 |-------------------|---------------|---------------|-------------------|
 | **Arch Linux**     | **Debian**     | **Fedora**  | **Gentoo**        |
 | **CachyOS**    | **Devuan** | **CentOS** | **NixOS**      |
-| **Kde Linux**       | **Linux Mint** | **AlmaLinux**     | **openSUSE**      |
+| **Kde Linux**       | **Linux Mint** | **Alma Linux**     | **openSUSE**      |
 | **EndeavourOS**   | **MX Linux**   | **RHEL**       | **Slackware**     |
 | **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux** | **Void Linux**    |
 | **Arco Linux**      | **Ubuntu**     |                |                   |
