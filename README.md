@@ -33,7 +33,7 @@
 
 <div align="center">
   
-### Supported Linux Distributions
+### Supported Systems 
 
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
