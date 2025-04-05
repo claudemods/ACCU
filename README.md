@@ -31,7 +31,7 @@
 
 <strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
-  <strong>Known issues 05-04-2025 05:44 Am Uk Time</strong><br>
+  <strong>Known issues And Info 05-04-2025 05:44 Am Uk Time</strong><br>
 
 <div align="center">
 squashfs function was recently fixed in C++ and Python Script so it works
