@@ -74,7 +74,7 @@ no other known issues more fixes coming soon
 
 <h2 align="center">Key Features! 🛡️📦</h2>
 <p align="center">
-  <strong>1) Launch Wayland Applications Using Existing Containers</strong><br>
+  <strong>1) Launch Wayland Or X11 Applications Using Existing Containers</strong><br>
   <strong>2) Clone Current System Into .tar</strong><br>
   <strong>3) Clone A Drive Into .tar</strong><br>
   <strong>4) Create from existing .tar file</strong><br>
