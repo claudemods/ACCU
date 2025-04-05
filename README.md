@@ -45,7 +45,7 @@
 ### Red Hat Based
 **RHEL**  
 **Fedora**  
-**CentOS Stream**  
+**CentOS**  
 **AlmaLinux**  
 **Rocky Linux**
 
@@ -53,7 +53,7 @@
 **Arch Linux**  
 **CachyOS**  
 **KdeLinux**  
-**Garuda Linux**  
+**Garuda**  
 **ArcoLinux**  
 **Manjaro**  
 **EndeavourOS**
