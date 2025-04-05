@@ -5,7 +5,7 @@
 <h1 align="center">Apex Container Creator Utility! (accu)</h1>
 
 <div align="center">
-<strong>Create Docker Containers From Linux Systems</strong><br>
+<strong>Create Docker Containers From Cloned Linux Systems</strong><br>
 
 <div align="center">
  <strong>Sailing The Seven Seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix! 🚢🌊</strong><br>
