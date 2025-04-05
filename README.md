@@ -48,7 +48,7 @@
 
 <h2 align="center">Prerequisites! ⚠️</h2>
 <p align="center">
-  <strong>docker Installed And Setup</strong><br>
+  <strong>docker/incus Installed And Setup</strong><br>
   <strong>python If You Choose The Python Script</strong><br>
   <strong>C++ If You Choose The C++ Arch Script</strong><br>
   <strong>python-pyqt6 If You Choose The Python Qt6 App</strong><br>
