@@ -37,12 +37,12 @@
 
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
-| **Arch Linux**    | **Debian**     | **Fedora**     | **Gentoo**        |
+| **Arch**    | **Debian**     | **Fedora**     | **Gentoo**        |
 | **CachyOS**      | **Devuan**     | **CentOS**     | **NixOS**         |
 | **Kde Linux**    | **Linux Mint** | **Alma Linux** | **openSUSE**      |
 | **EndeavourOS**   | **MX Linux**   | **RHEL**      | **Slackware**     |
-| **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux**| **Void Linux**    |
-| **Arco Linux**    | **Kde Neon**   | **Nobara**    |                   |
+| **Garuda**  | **Pop!_OS**    | **Rocky Linux**| **Void Linux**    |
+| **Arco**    | **Kde Neon**   | **Nobara**    |                   |
 | **Manjaro**       | **Ubuntu**     |               |                   |
 | **Artix**         | **Kubuntu**    |               |                   |
 
