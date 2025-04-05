@@ -77,7 +77,7 @@ new fixes to cloning mechanism you can now clone a installed system
 <div align="center">
 squashfs function was recently fixed in C++ and Python Script so it works
   <div align="center">
-.img.xz and cloning to drive hasnt been tested
+.img.xz and cloning to drive cloning hasnt been tested
 
 <div align="center">
 
