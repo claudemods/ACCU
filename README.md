@@ -37,12 +37,12 @@
 
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
-| **ArcoLinux**     | **Debian**     | **AlmaLinux**  | **Gentoo**        |
-| **Arch Linux**    | **Devuan** | **CentOS Stream** | **NixOS**      |
-| **CachyOS**       | **Linux Mint** | **Fedora**     | **openSUSE**      |
+| **Arch Linux**     | **Debian**     | **AlmaLinux**  | **Gentoo**        |
+| **CachyOS**    | **Devuan** | **CentOS Stream** | **NixOS**      |
+| **Kde Linux**       | **Linux Mint** | **Fedora**     | **openSUSE**      |
 | **EndeavourOS**   | **MX Linux**   | **RHEL**       | **Slackware**     |
 | **Garuda Linux**  | **Pop!_OS**    | **Rocky Linux** | **Void Linux**    |
-| **KdeLinux**      | **Ubuntu**     |                |                   |
+| **Arco Linux**      | **Ubuntu**     |                |                   |
 | **Manjaro**       |                |                |                   |
 
 <h2 align="center">Prerequisites! ⚠️</h2>
