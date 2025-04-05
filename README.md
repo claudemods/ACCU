@@ -43,22 +43,6 @@
 </div>
 
 
-<strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
-
-  <strong>Known issues And Info 05-04-2025 05:44 Am Uk Time</strong><br>
-
-<div align="center">
-squashfs function was recently fixed in C++ and Python Script so it works
-  <div align="center">
-.img.xz hasnt been tested
-
-<div align="center">
-cloning into .tar hasnt been tested
-
-<div align="center">
-no other known issues more fixes coming soon 
-
-
 <h2 align="center">Prerequisites! ⚠️</h2>
 <p align="center">
   <strong>docker Installed And Setup</strong><br>
@@ -81,6 +65,24 @@ no other known issues more fixes coming soon
   <strong>5) Create from .img.xz file</strong><br>
   <strong>6) Create from SquashFS file</strong>
 </p>
+
+
+
+  <strong>Known issues And Info 05-04-2025 05:44 Am Uk Time</strong><br>
+
+<div align="center">
+squashfs function was recently fixed in C++ and Python Script so it works
+  <div align="center">
+.img.xz hasnt been tested
+
+<div align="center">
+cloning into .tar hasnt been tested
+
+<div align="center">
+no other known issues more fixes coming soon 
+
+
+<strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
