@@ -53,10 +53,14 @@
 ### Arch-Based  
  **Arch Linux** 
  **CachyOS**
- **kdeLinux**
- **Garuda**
+ 
+ **KdeLinux**
+**Garuda**
+ 
  **ArcoLinux**
+
  **Manjaro**  
+
 **EndeavourOS**  
 
 ### Independent/Other  
