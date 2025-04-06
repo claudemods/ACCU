@@ -100,6 +100,7 @@ no other known issues more fixes coming soon
 currently testing new incus features please wait for newer upload 
   
 ![incus](https://github.com/user-attachments/assets/8a8f5af2-4157-4931-a2b1-8047afe3164e)
-![fingers crossed](https://github.com/user-attachments/assets/93f8e19b-e37b-4138-accb-2640a6a04ea2)
+![looks good](https://github.com/user-attachments/assets/82fbbc2b-66a8-48ef-b6aa-0179db955501)
+
 
 
