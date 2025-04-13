@@ -101,5 +101,6 @@ currently trying to add support for incus ive solved network issues i can clone 
   <div align="center">
   but now i need to learn how to setup and use wayland 
   
-![Screenshot_archlinux_2025-04-13_20:35:28](https://github.com/user-attachments/assets/f6f726fe-f347-4420-99a1-e424834e83dc)
+![Screenshot_20250413_231048](https://github.com/user-attachments/assets/379d838d-fac0-4473-a894-0e389e723812)
+
 
