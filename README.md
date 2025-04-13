@@ -83,7 +83,7 @@ squashfs function was recently fixed in C++ and Python Script so it works
 
 <div align="center">
 
-<div align="center">
+
 no other known issues more fixes coming soon 
 
 
@@ -97,7 +97,9 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-currently trying to add support for incus ive solved network issues i can clone systems into incus containers but now i need to learn how to use wayland 
+currently trying to add support for incus ive solved network issues i can clone systems into incus containers 
+  <div align="center">
+  but now i need to learn how to setup and use wayland 
   
 ![Screenshot_archlinux_2025-04-13_20:35:28](https://github.com/user-attachments/assets/f6f726fe-f347-4420-99a1-e424834e83dc)
 
