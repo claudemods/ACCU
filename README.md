@@ -100,7 +100,7 @@ no other known issues more fixes coming soon
 
 ### Incus Container Development
 
-Currently expanding Incus support - solved networking, system cloning, and Wayland apps
+Currently expanding Incus support
 
 </div>
 
