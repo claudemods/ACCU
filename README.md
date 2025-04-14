@@ -100,6 +100,9 @@ no other known issues more fixes coming soon
 currently trying to add support for incus ive solved network issues i can clone systems into incus containers i can use wayland applications 
   <div align="center">
   but now i need to learn how to setup and use plasma desktop
+
+![Screenshot_20250413_231048](https://github.com/user-attachments/assets/9aa92271-64f0-4e09-b5cf-6d27ff0cc2cd)
+
   
 ![Screenshot_20250414_172245](https://github.com/user-attachments/assets/51063ab8-e27a-475a-8e0b-1be53d54feaa)
 
