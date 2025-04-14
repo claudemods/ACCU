@@ -97,26 +97,28 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-  
-# Incus System Container Experiments
 
-Currently working on adding full Incus support to my workflow 🚀 
+### Incus Container Development
+
+Currently expanding Incus support - solved networking, system cloning, and Wayland apps
 
 </div>
 
 ## Current Progress
-Solved network configuration issues ✔️
-Successfully cloning systems into Incus containers ✔️
-Wayland applications working properly ✔️ 
+- Solved network configuration issues ✅  
+- Successfully cloning systems into Incus containers ✅  
+- Wayland applications working properly ✅  
 
 ## Next Goals
-Setting up Plasma Desktop in containers 🔧 
-Integrating my custom Hyprland build 🔧  
-
+- Setting up Plasma Desktop in containers 🔨  
+- Integrating my custom Hyprland build 🔨  
 
 <div align="center">
 
+*Active development in progress - check back for updates!*
+
 </div>
+
 
 ![Screenshot_20250413_231048](https://github.com/user-attachments/assets/9aa92271-64f0-4e09-b5cf-6d27ff0cc2cd)
 
