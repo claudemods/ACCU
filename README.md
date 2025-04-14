@@ -97,12 +97,26 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-currently trying to add support for incus ive solved network issues i can clone systems into incus system containers
-    <div align="center">
-  i can use wayland applications 
-  <div align="center">
-  but now i need to learn how to setup and use plasma desktop and my custom hyprland build
+  
+# Incus System Container Experiments
 
+🚀 Currently working on adding full Incus support to my workflow
+
+</div>
+
+## Current Progress
+✔️ Solved network configuration issues  
+✔️ Successfully cloning systems into Incus containers  
+✔️ Wayland applications working properly  
+
+## Next Goals
+🔧 Setting up Plasma Desktop in containers  
+🔧 Integrating my custom Hyprland build  
+
+
+<div align="center">
+
+</div>
 ![Screenshot_20250413_231048](https://github.com/user-attachments/assets/9aa92271-64f0-4e09-b5cf-6d27ff0cc2cd)
 
   
