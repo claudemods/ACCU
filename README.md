@@ -117,6 +117,7 @@ Integrating my custom Hyprland build 🔧
 <div align="center">
 
 </div>
+
 ![Screenshot_20250413_231048](https://github.com/user-attachments/assets/9aa92271-64f0-4e09-b5cf-6d27ff0cc2cd)
 
   
