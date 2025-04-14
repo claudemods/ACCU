@@ -97,7 +97,7 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-currently trying to add support for incus ive solved network issues i can clone systems into incus containers
+currently trying to add support for incus ive solved network issues i can clone systems into incus system containers
     <div align="center">
   i can use wayland applications 
   <div align="center">
