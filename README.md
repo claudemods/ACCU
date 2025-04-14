@@ -97,7 +97,9 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-currently trying to add support for incus ive solved network issues i can clone systems into incus containers i can use wayland applications 
+currently trying to add support for incus ive solved network issues i can clone systems into incus containers
+    <div align="center">
+  i can use wayland applications 
   <div align="center">
   but now i need to learn how to setup and use plasma desktop
 
