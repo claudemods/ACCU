@@ -100,7 +100,7 @@ no other known issues more fixes coming soon
 
 ### Incus Container Development
 
-Currently expanding Incus support
+Currently Adding Incus support
 
 </div>
 
