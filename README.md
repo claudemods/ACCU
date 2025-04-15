@@ -107,10 +107,11 @@ Currently Im Adding Incus support
 ## Current Progress
   Solved network configuration issues ✅  
   Successfully cloning systems into Incus containers ✅  
-  Wayland Support ✅  
+  Wayland Support ✅ 
+  Setting up Plasma Desktop in containers ✅ 
 
 ## Next Goals
-  Setting up Plasma Desktop in containers 🔨  
+  now to change my desktops to load as local user 🔨  
   Integrating my custom Hyprland build 🔨  
 
 <div align="center">
@@ -124,5 +125,8 @@ Currently Im Adding Incus support
 
   
 ![Screenshot_20250414_172245](https://github.com/user-attachments/assets/51063ab8-e27a-475a-8e0b-1be53d54feaa)
+
+![Screenshot_20250415_183801](https://github.com/user-attachments/assets/42edecac-c0a4-4b06-8498-5a6dde2879ef)
+
 
 
