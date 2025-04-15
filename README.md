@@ -36,9 +36,9 @@
 
 <div align="center">
   
-### All Supported Linux Distributions For Docker 
+### All Supported Linux Distributions For Docker Containers
 
-### Arch Only For Incus Currently
+### All Supported Linux Distributions For Incus System Containers
 
 | Arch Based        | Debian Based   | Red Hat Based  | Independent/Other |
 |-------------------|---------------|---------------|-------------------|
