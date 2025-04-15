@@ -100,8 +100,6 @@ no other known issues more fixes coming soon
 
 
 <div align="center">
-
-
 ## Known Issues and Further Information
 
 - Currently only working Docker options:
