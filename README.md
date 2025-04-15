@@ -113,9 +113,8 @@ Currently Im Adding Incus support
   Successfully cloning systems into Incus containers ✅  
   Added Support For All Distros Listed Above/Wayland Desktop Support ✅ 
 ## Next Goals
+  user data is incorrect i aim to try and fix this soon 🔨 
   fix sound in incus system container 🔨  
-  Testing my custom Hyprland build 🔨 
-  Plushing Up Accu Scripts Before Releasing them 🔨  
 
 <div align="center">
 
@@ -136,6 +135,9 @@ Currently Im Adding Incus support
 ![Screenshot_20250415_232108](https://github.com/user-attachments/assets/1a7eb93a-4b4c-46ae-841c-127f721af8e4)
 
 ![Screenshot_20250415_232402](https://github.com/user-attachments/assets/18214b75-c17e-4ade-b3e3-002882c61a74)
+
+![Screenshot_20250415_232832](https://github.com/user-attachments/assets/097d38fd-d635-4aea-8c06-5ab095fee51d)
+
 
 
 
