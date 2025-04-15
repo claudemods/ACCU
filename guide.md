@@ -69,4 +69,4 @@
    - Use `.bashrc` file in current directory
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
-     - `dbus-launch hyprland` and/or `startplasma-wayland`
+     - `dbus-launch hyprland` or `startplasma-wayland ect....`
