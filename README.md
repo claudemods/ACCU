@@ -114,7 +114,8 @@ Currently Im Adding Incus support
   Added Support For All Distros Listed Above/Wayland Desktop Support ✅ 
 ## Next Goals
   fix sound in incus system container 🔨  
-  Integrating my custom Hyprland build 🔨  
+  Testing my custom Hyprland build 🔨 
+  Plushing Up Accu Script Before Release 🔨  
 
 <div align="center">
 
