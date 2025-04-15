@@ -99,6 +99,9 @@ no other known issues more fixes coming soon
 </p>
 
 
+<div align="center">
+
+
 ## Known Issues and Further Information
 
 - Currently only working Docker options:
