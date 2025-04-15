@@ -105,14 +105,14 @@ Currently Im Adding Incus support
 </div>
 
 ## Current Progress
+  
   Solved network configuration issues ✅  
   Successfully cloning systems into Incus containers ✅  
-  
-  Wayland Support ✅ 
+  Added Support For All Distros Listed Above/Wayland Desktop Support ✅ 
   Setting up Plasma Desktop in containers ✅ 
 
 ## Next Goals
-  fix sound incus system container 🔨  
+  fix sound in incus system container 🔨  
   Integrating my custom Hyprland build 🔨  
 
 <div align="center">
