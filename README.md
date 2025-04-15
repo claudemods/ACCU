@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<strong>Create Docker And Arch Incus Containers From Cloned Linux Systems</strong><br>
+<strong>Create Docker And Arch Incus System Containers From Cloned Linux Systems</strong><br>
 
 
 
@@ -112,7 +112,7 @@ Currently Im Adding Incus support
   Setting up Plasma Desktop in containers ✅ 
 
 ## Next Goals
-  now to change my desktops to load as local user 🔨  
+  fix sound incus system container 🔨  
   Integrating my custom Hyprland build 🔨  
 
 <div align="center">
