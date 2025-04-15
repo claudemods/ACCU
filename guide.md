@@ -64,9 +64,14 @@
      - Follow 1 step from konsole output
    - **Option 3**: Create from squashfs
      - Follow 1 step from konsole output
-
+     
+4. add the profiles to your container
+   - incus profile add containername gpu
+   - incus profile add containername mount
+   - incus restart containername
+   
 5. Configure for X11 or Wayland desktop
    - Use `.bashrc` file in current directory
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
-     - `dbus-launch hyprland` or `startplasma-wayland ect....`
+     - `then use command dbus-launch hyprland` or `startplasma-wayland ect....`
