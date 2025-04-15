@@ -107,6 +107,7 @@ Currently Im Adding Incus support
 ## Current Progress
   Solved network configuration issues ✅  
   Successfully cloning systems into Incus containers ✅  
+  
   Wayland Support ✅ 
   Setting up Plasma Desktop in containers ✅ 
 
