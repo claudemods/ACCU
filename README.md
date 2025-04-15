@@ -92,54 +92,91 @@ no other known issues more fixes coming soon
 
 <strong> All Compiled Binaries Provided Are Currently Alpha Releases Test With Caution! ⚠️🏗️</strong><br>
 
-<h2 align="center">Current Alpha Builds</h2>
+<h2 align="center">Current Alpha Builds being updated now....</h2>
 <p align="center">
   <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2005-04-2025/">Arch C++ Script</a><br>
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2005-04-2025">Python Script</a>
 </p>
 
 
-<div align="center">
+## Known Issues and Further Information
 
-### Incus Container Support
+- Currently only working Docker options:
+  - `1` Clone from current system
+  - `5` Create from squashfs  
+  (All other options haven't been tested)
+- Incus system container options work from tests
+- User data is incorrect - I aim to try and fix this soon
+- Sound in Incus system container hasn't been integrated yet
+- This is nearly stable and most functions now work - just .img.xz and drives to test and finish
 
-Currently Im Adding Incus support
+---
 
-</div>
+## Changelog
 
-## Current Progress
-  
-  Solved network configuration issues ✅  
-  Successfully cloning systems into Incus containers ✅  
-  Added Support For All Distros Listed Above/Wayland Desktop Support ✅ 
-## Next Goals
-  user data is incorrect i aim to try and fix this soon 🔨 
-  fix sound in incus system container 🔨  
+### ACCU v1.0 build 16/04/2025
+- Incus system container support added for:
+  - Current system
+  - From squashfs
+- No further changes
 
-<div align="center">
+### ACCU v1.0 build 05/04/2025
+- Docker container support added
+- C++ and Python new fixes to cloning current system - it now finally works from tests
+- New changes to cloning drive (though it hasn't been tested)
+- New colors to commands process updates
+- This is nearly stable and most functions now work - just .img.xz and drives to test and finish
 
-*Active development in progress - check back for updates!*
+---
 
-</div>
+## Steps for Docker Containers
 
+1. Setup Docker
+   - Setup Docker using online guides
 
-![Screenshot_20250413_231048](https://github.com/user-attachments/assets/9aa92271-64f0-4e09-b5cf-6d27ff0cc2cd)
+2. Use the menu options
+   - Choose a container name (e.g., `arch`)
+   - Choose an option (e.g., `1` clone from current system or `5` create from squashfs - all other options haven't been tested)
+   - Let the script do the rest
+   - Additional option: Launch an existing container
 
-  
-![Screenshot_20250414_172245](https://github.com/user-attachments/assets/51063ab8-e27a-475a-8e0b-1be53d54feaa)
+---
 
-![Screenshot_20250415_183801](https://github.com/user-attachments/assets/42edecac-c0a4-4b06-8498-5a6dde2879ef)
+## Steps for Incus System Containers
 
-![Screenshot_20250415_232118](https://github.com/user-attachments/assets/5c1cc704-bff0-41e7-b493-c2bfa89452e9)
+1. Setup Incus
+   - Setup Incus using online guides to then use `incus admin init` command
+   - Don't make any profiles or containers
+   - Just go through options in command `incus admin init`
 
-![Screenshot_20250415_232108](https://github.com/user-attachments/assets/1a7eb93a-4b4c-46ae-841c-127f721af8e4)
+2. Add a profile
+   - Open a konsole in current directory containing `gpu.yaml`
+   - Use command: `incus profile create gpu < gpu.yaml`
 
-![Screenshot_20250415_232402](https://github.com/user-attachments/assets/18214b75-c17e-4ade-b3e3-002882c61a74)
+3. Add another profile
+   - Open a konsole in current directory containing `mount.yaml`
+   - Use command: `incus profile create mount < mount.yaml`
 
-![Screenshot_20250415_232832](https://github.com/user-attachments/assets/097d38fd-d635-4aea-8c06-5ab095fee51d)
-
-
-
+4. Create containers or launch them
+   - **Option 1**: Launch existing container
+   - **Option 2**: Clone current system into Incus system container
+     - Follow 1 step from konsole output
+   - **Option 3**: Create from squashfs
+     - Follow 1 step from konsole output
+     
+5. add the profiles to your container then restart your container
+   - incus profile add containername gpu
+   - incus profile add containername mount
+   - incus restart containername
+   
+6. Configure for X11 or Wayland Desktops
+   - Use `.bashrc` file in current directory
+   - Backup your bashrc in container and copy new one or simply copy and paste:
+     - `/bin/bash` or restart container
+     - `then use command dbus-launch hyprland` or `startplasma-wayland ect....`
+    
+7. launch your container as user after reboot 
+  - incus exec containername -- su - username
 
 
 
