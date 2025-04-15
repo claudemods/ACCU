@@ -115,7 +115,7 @@ Currently Im Adding Incus support
 ## Next Goals
   fix sound in incus system container 🔨  
   Testing my custom Hyprland build 🔨 
-  Plushing Up Accu Script Before Release 🔨  
+  Plushing Up Accu Scripts Before Releasing them 🔨  
 
 <div align="center">
 
