@@ -89,6 +89,8 @@
 
 ##  [Guide And Steps](https://github.com/claudemods/ACCU/blob/main/guide.md)
 
+##  [Youtube Guide](https://www.youtube.com/watch?v=SZ8paTyVDlo)
+
 
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
