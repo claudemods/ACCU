@@ -67,7 +67,7 @@
 <h2 align="center">Key Features! For Docker 🛡️📦</h2>
 <p align="center">
   <strong>1) Launch Wayland Or X11 Applications Using Existing Containers</strong><br>
-  <strong>2) Clone Current System Into .tar</strong><br>
+  <strong>2) Clone Current System Into Docker Container</strong><br>
   <strong>3) Clone A Drive Into .tar</strong><br>
   <strong>4) Create from existing .tar file</strong><br>
   <strong>5) Create from .img.xz file</strong><br>
