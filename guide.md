@@ -9,7 +9,7 @@
 - Incus system container options work from tests
 - User data is incorrect - I aim to try and fix this soon
 - Sound in Incus system container hasn't been integrated yet
-- This is nearly stable and most functions now work - just .img.xz and drives to test and finish
+- This is nearly stable and most functions now work
 
 ---
 
