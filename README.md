@@ -77,7 +77,7 @@
 <h2 align="center">Key Features! For Incus 🛡️📦</h2>
 <p align="center">
   <strong>1) Launch Existing System Containers</strong><br>
-  <strong>2) Clone Current System </strong><br>
+  <strong>2) Clone Current System to a container </strong><br>
   <strong>3) Create From Squashfs</strong><br>
 </p>
 
