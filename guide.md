@@ -59,14 +59,14 @@
    - **Option 3**: Create from squashfs
      - Follow 1 step from konsole output
      
-3. add the profile from profiles folder on github to your container then restart your container
+3. add the profile from Incus Profiles folder on github to your container then restart your container
    - Add a profile
    - Open a konsole in current directory containing `components.yaml`
    - Use command: `incus profile create components < components.yaml`
     - incus profile add containername components
    - incus restart containername
 4. Configure for X11 or Wayland Desktops
-   - Use `.bashrc` file in github profiles folder
+   - Use `.bashrc` file in github Incus Profiles folder
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
      - `then use command dbus-launch hyprland` or `startplasma-wayland ect....`
