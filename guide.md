@@ -60,7 +60,7 @@
      - Follow 1 step from konsole output
      
 3. add the profile from profiles folder on github to your container then restart your container
-   2. Add a profile
+   - Add a profile
    - Open a konsole in current directory containing `sound-wayland+gpu.yaml`
    - Use command: `incus profile create components < sound-wayland+gpu.yaml`
     - incus profile add containername components
