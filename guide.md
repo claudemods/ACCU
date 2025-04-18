@@ -51,27 +51,23 @@
    - Don't make any profiles or containers
    - Just go through options in command `incus admin init`
 
-2. Add a profile
-   - Open a konsole in current directory containing 
-   - Use command:
 
-
-4. Create containers or launch them
+2. Create containers or launch them
    - **Option 1**: Launch existing container
    - **Option 2**: Clone current system into Incus system container
      - Follow 1 step from konsole output
    - **Option 3**: Create from squashfs
      - Follow 1 step from konsole output
      
-5. add the profile from profiles folder on github to your container then restart your container
+3. add the profile from profiles folder on github to your container then restart your container
    - incus profile add containername sound-wayland+gpu.yaml
    - incus restart containername
    
-6. Configure for X11 or Wayland Desktops
+4. Configure for X11 or Wayland Desktops
    - Use `.bashrc` file in github profiles folder
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
      - `then use command dbus-launch hyprland` or `startplasma-wayland ect....`
     
-7. launch your container as user after reboot 
+5. launch your container as user after reboot 
   - incus exec containername -- su - username
