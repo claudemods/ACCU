@@ -63,7 +63,7 @@
    2. Add a profile
    - Open a konsole in current directory containing `sound-wayland+gpu.yaml`
    - Use command: `incus profile create components < sound-wayland+gpu.yaml`
-    - incus profile add containername sound-wayland+gpu.yaml
+    - incus profile add containername components
    - incus restart containername
 4. Configure for X11 or Wayland Desktops
    - Use `.bashrc` file in github profiles folder
