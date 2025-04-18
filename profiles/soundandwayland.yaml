@@ -1,0 +1,44 @@
+description: Let containers use host display and audio
+devices:
+  # Existing Wayland config (unchanged)
+  waylandSocket:
+    type: proxy
+    bind: container
+    connect: unix:/run/user/1000/wayland-0
+    listen: unix:/mnt/wayland-0
+    mode: '0700'
+    security.gid: '1000'
+    security.uid: '1000'
+    gid: '1000'
+    uid: '1000'
+
+  # GPU passthrough (unchanged)
+  mygpu:
+    type: gpu
+    gid: '1000'
+    uid: '1000'
+
+  # PipeWire socket (new)
+  pipewireSocket:
+    type: proxy
+    bind: container
+    connect: unix:/run/user/1000/pipewire-0
+    listen: unix:/mnt/pipewire-0
+    mode: '0700'
+    security.gid: '1000'
+    security.uid: '1000'
+    gid: '1000'
+    uid: '1000'
+
+  # PulseAudio fallback (new)
+  pulseSocket:
+    type: proxy
+    bind: container
+    connect: unix:/run/user/1000/pulse/native
+    listen: unix:/mnt/pulse-native
+    mode: '0700'
+    security.gid: '1000'
+    security.uid: '1000'
+    gid: '1000'
+    uid: '1000'
+name: wayland
