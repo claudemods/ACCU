@@ -64,7 +64,7 @@
    - Use command: `incus profile create components < components.yaml`
     - incus profile add containername components
    - incus restart containername
-4. Configure for X11 or Wayland Desktops
+4. Configure for Wayland Desktops
    - Use `.bashrc` file in github Incus Profiles folder
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
