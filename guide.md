@@ -7,8 +7,6 @@
   - `5` Create from squashfs  
   (All other options haven't been tested)
 - Incus system container options work from tests
-- User data is incorrect - I aim to try and fix this soon
-- Sound in Incus system container hasn't been integrated yet
 -  you must push enter twice when asked in konsole during incus options
 - This is nearly stable and most functions now work
 
