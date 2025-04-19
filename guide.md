@@ -48,8 +48,7 @@
 
 1. Setup Incus
    - Setup Incus using online guides to then use `incus admin init` command
-   - Don't make any profiles or containers
-   - Just go through options in command `incus admin init`
+   - only make default profile provided by command `incus admin init`
 
 
 2. Create containers or launch them
