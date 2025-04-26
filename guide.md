@@ -1,4 +1,4 @@
-  # Apex Container Creator Utility (ACCU)
+# Apex Container Creator Utility (ACCU)
 
 ## Known Issues and Further Information
 
@@ -56,10 +56,9 @@ new mechanism for incus options fixing cloning problems
 2. Create containers or launch them
    - **Option 1**: Launch existing container
    - **Option 2**: Clone current system into Incus system container
-     - Follow 1 step from konsole output
+     - please create a container manually for your distro then use this method
    - **Option 3**: Create from squashfs
-     - Follow 1 step from konsole output
-
+     - please create a container for your distro manually then use this method
 3. add the profile from Incus Profiles folder on github to your container then restart your container
    - Add a profile
    - Open a konsole in current directory containing `components.yaml`
