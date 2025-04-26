@@ -1,10 +1,10 @@
-# Apex Container Creator Utility (ACCU)
+  # Apex Container Creator Utility (ACCU)
 
 ## Known Issues and Further Information
 
 - Currently only working Docker options:
   - `1` Clone from current system
-  - `5` Create from squashfs  
+  - `5` Create from squashfs
   (All other options haven't been tested)
 - Incus system container options work from tests
 -  you must push enter twice when asked in konsole during incus options
@@ -13,6 +13,10 @@
 ---
 
 ## Changelog
+
+### ACCU v1.0 build 26/04/2025
+new mechanism for incus options fixing cloning problems
+- No further changes
 
 ### ACCU v1.0 build 16/04/2025
 - Incus system container support added for:
@@ -55,7 +59,7 @@
      - Follow 1 step from konsole output
    - **Option 3**: Create from squashfs
      - Follow 1 step from konsole output
-     
+
 3. add the profile from Incus Profiles folder on github to your container then restart your container
    - Add a profile
    - Open a konsole in current directory containing `components.yaml`
@@ -67,6 +71,6 @@
    - Backup your bashrc in container and copy new one or simply copy and paste:
      - `/bin/bash` or restart container
      - `then use command dbus-launch hyprland` or `startplasma-wayland ect....`
-    
-5. launch your container as user after reboot 
+
+5. launch your container as user after reboot
   - incus exec containername -- su - username
