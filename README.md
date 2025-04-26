@@ -100,6 +100,27 @@
 
 <div align="center">
 
+##  [Why Not Try The Premade Container Built From A Squashfs Shown Below](https://drive.google.com/drive/folders/1c6T3QDIbHXkYJuGKgv4_ZeMFOTgNQpX9)
+
+<div align="center">
+
+Unofficial Custom Arch Distribution Inspired By Windows Built On Blazingly Fast CachyOS! 🛡️🚀🎮💻
+
+<div align="center">
+
+5.4gb tar.gz/ 13gb system
+
+<div align="center">
+
+![Screenshot_archlinux_2025-04-26_10:05:25](https://github.com/user-attachments/assets/52888b08-700c-45ae-a01c-7159c5e47d4a)
+
+
+<div align="center">
+
+
+
+
+
 ##  [Why Not Try The Premade Container Built From A Squashfs Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
 
 <div align="center">
