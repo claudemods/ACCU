@@ -22,7 +22,7 @@
 
 
   
-[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alphas-01-10AM)
+[![Version](https://img.shields.io/github/v/release/claudemods/ACCU?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ACCU/releases/tag/Alpha-Builds-26-04-25)
 
 
 <div align="center">
@@ -95,7 +95,7 @@
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
   <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2026-04-2025/02%3A22">Arch C++ Script</a><br>
-  <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2016-04-2025/00%3A55">Python Script</a>
+  <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2026-04-2025/22%3A47">Python Script</a>
 </p>
 
 
