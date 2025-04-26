@@ -94,7 +94,7 @@
 
 <h2 align="center">Current Alpha Builds</h2>
 <p align="center">
-  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2016-04-2025/00%3A38">Arch C++ Script</a><br>
+  <a href="https://github.com/claudemods/ACCU/tree/main/C%2B%2B%20Script/Unstable%2026-04-2025/02%3A22">Arch C++ Script</a><br>
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2016-04-2025/00%3A55">Python Script</a>
 </p>
 
