@@ -104,7 +104,7 @@
 
 <div align="center">
 
-LightWeight KdeLinux Container For All Arch Kde Devs
+LightWeight KdeLinux Container For All Arch Kde Developers
 
 <div align="center">
 
