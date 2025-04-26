@@ -104,7 +104,11 @@
 
 <div align="center">
 
-Custom Unofficial KdeLinux Built From ArchInstall
+LightWeight KdeLinux Container For All Arch Kde Devs
+
+<div align="center">
+
+4.4gb tar.gz/ 8gb system
 
 <div align="center">
 
