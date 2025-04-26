@@ -100,7 +100,7 @@
 
 <div align="center">
 
-##  [Why Not Try The Premade Container Built From An Iso Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
+##  [Why Not Try The Premade Container Built From A Squashfs Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
 
 <div align="center">
 
