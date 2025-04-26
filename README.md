@@ -100,7 +100,7 @@
 
 <div align="center">
 
-##  [Why Not Try The Premade Container Built From A Squashfs Shown Below](https://drive.google.com/drive/folders/1c6T3QDIbHXkYJuGKgv4_ZeMFOTgNQpX9)
+##  [Why Not Try The Premade Container From A Squashfs Shown Below](https://drive.google.com/drive/folders/1c6T3QDIbHXkYJuGKgv4_ZeMFOTgNQpX9)
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Unofficial Blazingly Fast CachyOS! 🛡️🚀🎮💻
 
 
 
-##  [Why Not Try The Premade Container Built From A Squashfs Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
+##  [Why Not Try The Premade Container From A Squashfs Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
 
 <div align="center">
 
