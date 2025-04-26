@@ -104,7 +104,7 @@
 
 <div align="center">
 
-Unofficial Custom Arch Distribution Inspired By Windows Built On Blazingly Fast CachyOS! 🛡️🚀🎮💻
+Unofficial Blazingly Fast CachyOS! 🛡️🚀🎮💻
 
 <div align="center">
 
