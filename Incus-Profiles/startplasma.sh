@@ -1,3 +1,6 @@
+#!/bin/bash
+#Copyright (C) 2025 by claudemods 
+# please use in container 
 sudo -S rm -rf /home/$USER/.run/
 mkdir -pm 0700 /home/$USER/.run
 chown -R 1000:1000 /home/$USER/.run
