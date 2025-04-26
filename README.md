@@ -98,4 +98,24 @@
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2026-04-2025/22%3A47">Python Script</a>
 </p>
 
+<div align="center">
+
+##  [Why Not Try The Container Shown Below](https://drive.google.com/drive/folders/1NXLinSauSuZ59tKvthplJcy4X1vvPe69)
+
+<div align="center">
+
+Custom Unofficial KdeLinux Built From ArchInstall
+
+<div align="center">
+
+![Screenshot_20250426_000924](https://github.com/user-attachments/assets/1542f079-94bf-4a37-b4a4-02619edd27f0)
+
+<div align="center">
+
+
+Other Containers Can Be Found Here 
+<div align="center">
+https://github.com/claudemods/ACC
+
+
 
