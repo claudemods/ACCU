@@ -15,7 +15,7 @@
 ## Changelog
 
 ### ACCU v1.0 build 26/04/2025
-new mechanism for incus options fixing cloning problems
+- new mechanism for incus options fixing cloning problems
 - No further changes
 
 ### ACCU v1.0 build 16/04/2025
