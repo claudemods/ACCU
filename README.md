@@ -98,10 +98,38 @@
   <a href="https://github.com/claudemods/ACCU/tree/main/Universal%20Script/Unstable%2026-04-2025/22%3A47">Python Script</a>
 </p>
 
+
+<div align="center">
+
+
+##  [Make Isos From Of Debian/Ubuntu Systems(https://github.com/claudemods/claudemods-multi-iso-konsole-script)
+
+
+
+<div align="center">
+
+
+##  [Make Isos From Arch Systems](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage)
+
+
+
+
+
+
+
+<div align="center">
+
+
+##  [Make Img.xz pr Squashfs Of Linux Systems](https://github.com/claudemods/CS2A)
+
+
+
+
 <div align="center">
 
 
 ##  [Make Isos From Arch Incus System Containers](https://github.com/claudemods/Arch-Incus-Iso-Creator-Script)
+
 
 
 
