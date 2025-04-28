@@ -102,7 +102,7 @@
 <div align="center">
 
 
-##  [Make Isos From Of Debian/Ubuntu Systems(https://github.com/claudemods/claudemods-multi-iso-konsole-script)
+##  [Make Isos From Of Debian/Ubuntu Systems](https://github.com/claudemods/claudemods-multi-iso-konsole-script)
 
 
 
