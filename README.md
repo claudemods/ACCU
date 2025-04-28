@@ -110,7 +110,7 @@
 <div align="center">
 
 
-##  [Make Isos From Arch Systems](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage)
+##  [Make Isos Of Arch Systems](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage)
 
 
 
@@ -129,7 +129,7 @@
 <div align="center">
 
 
-##  [Make Isos From Arch Incus System Containers](https://github.com/claudemods/Arch-Incus-Iso-Creator-Script)
+##  [Make Isos Of Arch Incus System Containers](https://github.com/claudemods/Arch-Incus-Iso-Creator-Script)
 
 
 
