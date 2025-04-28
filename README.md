@@ -120,7 +120,7 @@
 <div align="center">
 
 
-##  [Make Img.xz pr Squashfs Of Linux Systems](https://github.com/claudemods/CS2A)
+##  [Make Img.xz or Squashfs Of Linux Systems](https://github.com/claudemods/CS2A)
 
 
 
