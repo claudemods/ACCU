@@ -89,7 +89,7 @@
 
 ##  [Guide And Steps](https://github.com/claudemods/ACCU/blob/main/guide.md)
 
-##  [Youtube Guide Is Old Use Guide On Github Please For Now!](https://www.youtube.com/watch?v=SZ8paTyVDlo)
+##  [Youtube Guide](https://www.youtube.com/watch?v=9fTTFCqyij8)
 
 
 <h2 align="center">Current Alpha Builds</h2>
